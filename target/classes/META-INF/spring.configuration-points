@@ -1,3 +1,0 @@
-places=http://www.lifestack.cn/schema/places; nsPrefix=place;
-places/country=http://www.lifestack.cn/schema/places/country;nsPrefix=eg-country;
-

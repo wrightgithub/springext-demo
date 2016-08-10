@@ -9,7 +9,7 @@ public class Main {
     @SuppressWarnings("resource")
     static void start_1() throws Exception {
         ApplicationContext ctx = new ClassPathXmlApplicationContext("classpath:applicationContext.xml");
-        CountryImpl country = (CountryImpl) ctx.getBean("country2");
+        CountryImpl country = (CountryImpl) ctx.getBean("country");
         System.out.println(country);
         Place place = (Place) ctx.getBean("place");
         System.out.println(place);

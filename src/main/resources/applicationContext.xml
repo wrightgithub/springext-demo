@@ -6,7 +6,7 @@
 	xsi:schemaLocation="
                  http://www.lifestack.cn/schema/places           http://localhost:8080/schema/places.xsd
                  http://www.lifestack.cn/schema/places/countries http://localhost:8080/schema/places-countries.xsd
-                 http://www.springframework.org/schema/beans     http://localhost:8080/schema/www.springframework.org/schema/beans/spring-beans.xsd
+               http://www.springframework.org/schema/beans     http://www.springframework.org/schema/beans/spring-beans-2.5.xsd
              ">
 
 	<place:country id="country" desc="guojia" >

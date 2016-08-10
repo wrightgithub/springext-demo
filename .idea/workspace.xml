@@ -2,34 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c76e2400-fd8c-4541-99ee-4405957463f7" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/META-INF/spring.schemas" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/META-INF/springext/springext-base.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/META-INF/places.bean-definition-parsers" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/META-INF/places/country.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/META-INF/spring.configuration-points" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/META-INF/spring.handlers" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/META-INF/spring.schemas" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/META-INF/springext/springext-base.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/applicationContext.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/alibaba/springext/demo/China.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/alibaba/springext/demo/Country.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/alibaba/springext/demo/CountryImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/alibaba/springext/demo/Main.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/alibaba/springext/demo/Place.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/alibaba/springext/demo/Usa.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/alibaba/springext/demo/handler/PlacesCountriesNamespaceHandler.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/alibaba/springext/demo/handler/PlacesNamespaceHandler.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/alibaba/springext/demo/parser/ChinaDefinitionParser.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/alibaba/springext/demo/parser/CountryDefinitionParser.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/alibaba/springext/demo/parser/UsaDefinitionParser.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/services.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/alibaba/springext/demo/AppTest.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/alibaba/springext/demo/handler/PlacesCountriesNamespaceHandler.java" afterPath="$PROJECT_DIR$/src/main/java/com/alibaba/springext/demo/handler/PlacesCountriesNamespaceHandler.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/alibaba/springext/demo/handler/PlacesNamespaceHandler.java" afterPath="$PROJECT_DIR$/src/main/java/com/alibaba/springext/demo/handler/PlacesNamespaceHandler.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/META-INF/spring.handlers" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/spring.handlers" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/services.xml" afterPath="$PROJECT_DIR$/src/main/resources/services.xml" />
     </list>
     <ignored path="springext-demo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -947,7 +923,7 @@
       <option name="presentableId" value="Default" />
       <updated>1470806670537</updated>
       <workItem from="1470806673255" duration="4286000" />
-      <workItem from="1470811013914" duration="17896000" />
+      <workItem from="1470811013914" duration="17931000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1470822126671</created>
@@ -956,11 +932,18 @@
       <option name="project" value="LOCAL" />
       <updated>1470822126671</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test">
+      <created>1470833129790</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1470833129790</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22182000" />
+    <option name="totallyTimeSpent" value="22217000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="336" width="1366" height="693" extended-state="6" />

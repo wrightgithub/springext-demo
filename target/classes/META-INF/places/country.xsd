@@ -21,7 +21,7 @@
 
 	<xsd:complexType name="CountryType">
 		<xsd:choice minOccurs="0" maxOccurs="unbounded">
-			<xsd:any namespace="http://www.lifestack.cn/schema/places/countries" />
+			<xsd:any namespace="http://www.lifestack.cn/schema/places/country" />
 		</xsd:choice>
 		<xsd:attribute name="defaultExtension" type="xsd:string" />
 		<xsd:attribute name="desc" type="xsd:string" />
